@@ -1,4 +1,4 @@
-Name: Rəvan Qəribli
+Name: Ravan Garibli
 Group: KOM24
 Laboratory Work 1
 Linked Lists
